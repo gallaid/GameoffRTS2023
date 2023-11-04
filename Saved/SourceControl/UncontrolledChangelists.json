@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"W:/Unreal Projects/Gameoff2023RTS/Content/TopDown/Blueprints/RTS_GameMode.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/BluePrints/RTS_PlayerController.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/BluePrints/RTS_GameMode.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/BluePrints/RTS_Camera.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/BluePrints/Input/Actions/IA_SetDestination_Click.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/BluePrints/Input/Actions/IA_SetDestination_Touch.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/BluePrints/Input/IMC_Default.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/BluePrints/Input/Actions/Camera_MoveForwardAxis.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/BluePrints/Input/Actions/Camera_MoveLeftAxis.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/5/9L/PDTJ6JOEJ4VCWHDHLM1RRR.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/TopDown/Maps/TopDownMap.umap",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/B/TJ/BZ4GL9PQU2M8CI39931BB8.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/BluePrints/Input/Actions/Camera_CameraZoom.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/TopDown/Blueprints/RTS_PlayerController.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/TopDown/Input/Actions/Camera_MoveUp.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/TopDown/Input/IMC_Default.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/TopDown/Input/Actions/Camera_MoveLeft.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/BluePrints/Input/Actions/Camera_MoveUp.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/BluePrints/Input/Actions/Camera_MoveLeft.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/TopDown/Input/Actions/IA_SetDestination_Touch.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/TopDown/Input/Actions/IA_SetDestination_Click.uasset",
+				"W:/Unreal Projects/Gameoff2023RTS/Content/__ExternalActors__/TopDown/Maps/TopDownMap/6/OI/H4CYGWRMJ49ZI6AS2GNGQY.uasset"
+			]
+		}
+	]
+}
