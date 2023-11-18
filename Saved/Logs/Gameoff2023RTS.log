@@ -4486,3 +4486,410 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.11.18-07.26.30:269][ 88]AssetCheck: New page: Asset Save: multiple assets
 [2023.11.18-07.26.30:269][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions
 [2023.11.18-07.26.30:269][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon
+[2023.11.18-07.28.00:435][306]LogSlate: Window 'ResourceFunctions' being destroyed
+[2023.11.18-07.28.00:444][306]LogSlate: Window 'ResourceFunctions' being destroyed
+[2023.11.18-07.28.00:452][306]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-07.28.00:452][306]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-07.28.12:089][183]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-07.28.12:089][183]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-07.28.12:090][183]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-07.29.18:341][216]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.137 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1952 files in 3048 folders with total size 123 MiB.
+[2023.11.18-07.31.46:782][ 18]LogEditorTransaction: Undo Delete current selection
+[2023.11.18-07.37.26:474][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2023.11.18-07.37.26:477][845]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.042
+[2023.11.18-07.37.26:478][845]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-07.37.26:478][845]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-07.37.26:499][845]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto3
+[2023.11.18-07.37.26:500][845]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto3E47B64F54FBEA06581C60A9C360FD240.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto3.uasset'
+[2023.11.18-07.37.26:501][845]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.11.18-07.42.38:098][348]BlueprintLog: New page: Compile Buildable
+[2023.11.18-07.42.38:182][348]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2023.11.18-07.43.23:708][405]BlueprintLog: New page: Compile Buildable
+[2023.11.18-07.43.23:791][405]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.18-07.43.26:023][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.18-07.43.26:028][534]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-07.43.26:121][534]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/Buildable
+[2023.11.18-07.43.26:121][534]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable1A5D98544C27AF73C1D8E5A9E2E94A9E.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/Buildable.uasset'
+[2023.11.18-07.43.26:135][534]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 1.29 sec)
+[2023.11.18-07.43.26:139][534]AssetCheck: New page: Asset Save: Buildable
+[2023.11.18-07.43.26:139][534]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-07.44.34:460][ 78]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/ResourceHolder.ResourceHolder
+[2023.11.18-07.44.34:460][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-07.44.34:460][ 78]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-07.44.37:969][307]LogSlate: Window 'ResourceHolder' being destroyed
+[2023.11.18-07.44.37:981][307]LogSlate: Window 'ResourceHolder' being destroyed
+[2023.11.18-07.44.37:987][307]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-07.44.37:987][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-07.44.38:074][307]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-07.44.38:074][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-07.44.49:779][ 92]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions
+[2023.11.18-07.44.49:780][ 92]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-07.44.49:780][ 92]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-07.46.07:220][880]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Units/Friendly/Peon/BTTask_FindNearByResource.BTTask_FindNearByResource
+[2023.11.18-07.46.07:220][880]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-07.46.07:220][880]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-07.46.24:664][614]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Units/Friendly/Peon/SO_GatherBehavior.SO_GatherBehavior
+[2023.11.18-07.46.24:664][614]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-07.46.24:665][614]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-07.46.36:407][313]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Units/Friendly/Peon/BTTask_DeliverToBase.BTTask_DeliverToBase
+[2023.11.18-07.46.36:407][313]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-07.46.36:407][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-07.46.39:341][480]LogSlate: Window 'BTTask_DeliverToBase' being destroyed
+[2023.11.18-07.46.39:351][480]LogSlate: Window 'BTTask_DeliverToBase' being destroyed
+[2023.11.18-07.46.39:357][480]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-07.46.39:357][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-07.46.39:441][480]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-07.46.39:441][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-07.46.39:494][480]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-07.46.39:494][480]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-07.47.36:126][276]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.11.18-07.47.36:131][276]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.032
+[2023.11.18-07.47.36:131][276]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-07.47.36:131][276]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-07.47.36:153][276]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto4
+[2023.11.18-07.47.36:154][276]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto47F7AE4E849E3F9D8B40062B1FF8D94D7.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto4.uasset'
+[2023.11.18-07.47.36:155][276]LogFileHelpers: Auto-saving content packages took 0.024
+[2023.11.18-07.55.01:455][374]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-07.55.01:455][374]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-07.55.01:455][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-07.56.23:899][929]BlueprintLog: New page: Compile Buildable
+[2023.11.18-07.56.23:988][929]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.11.18-07.56.28:937][265]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions
+[2023.11.18-07.56.28:937][265]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-07.56.28:937][265]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-07.56.51:937][652]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-07.56.52:032][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.18-07.58.15:534][325]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.11.18-07.58.15:537][325]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.028
+[2023.11.18-07.58.15:537][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-07.58.15:537][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-07.58.15:558][325]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto5
+[2023.11.18-07.58.15:559][325]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto5CC9191C248814B5661185F94DECA4468.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto5.uasset'
+[2023.11.18-07.58.15:560][325]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ResourceFunctions] ([2] browsable assets)...
+[2023.11.18-07.58.15:560][325]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ResourceFunctions]
+[2023.11.18-07.58.15:668][325]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto5
+[2023.11.18-07.58.15:669][325]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctions_Auto59C403B534AABD6A7330398A1A885727B.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto5.uasset'
+[2023.11.18-07.58.15:670][325]LogFileHelpers: Auto-saving content packages took 0.133
+[2023.11.18-08.05.03:167][273]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-08.05.03:268][273]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.18-08.08.16:215][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.11.18-08.08.16:220][908]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.034
+[2023.11.18-08.08.16:220][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-08.08.16:220][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-08.08.16:242][908]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto6
+[2023.11.18-08.08.16:243][908]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto6659DEB1D4AE1C6A46BECB6A75FEE3939.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto6.uasset'
+[2023.11.18-08.08.16:245][908]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ResourceFunctions] ([2] browsable assets)...
+[2023.11.18-08.08.16:245][908]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ResourceFunctions]
+[2023.11.18-08.08.16:359][908]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto6
+[2023.11.18-08.08.16:360][908]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctions_Auto6368ECFEA406E962F10614B83CAB7F537.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto6.uasset'
+[2023.11.18-08.08.16:362][908]LogFileHelpers: Auto-saving content packages took 0.142
+[2023.11.18-08.12.30:194][855]LogEditorTransaction: Undo Move Node
+[2023.11.18-08.12.31:346][896]LogEditorTransaction: Undo Create Reroute Node
+[2023.11.18-08.13.03:983][974]LogSlate: Window 'Color Picker' being destroyed
+[2023.11.18-08.16.37:158][158]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-08.16.37:198][158]LogBlueprint: Warning: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ResourceFunctions.uasset: [Compiler] Could not find a variable named "actual Taken" in 'ResourceFunctions_C'.
+Make sure 'ResourceFunctions_C' has been compiled for  Set actual Taken
+[2023.11.18-08.16.37:198][158]LogBlueprint: Warning: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ResourceFunctions.uasset: [Compiler] Could not find a variable named "actual Taken" in 'ResourceFunctions_C'.
+Make sure 'ResourceFunctions_C' has been compiled for  Set actual Taken
+[2023.11.18-08.16.37:198][158]LogBlueprint: Warning: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ResourceFunctions.uasset: [Compiler] Could not find a variable named "actual Taken" in 'ResourceFunctions_C'.
+Make sure 'ResourceFunctions_C' has been compiled for  Set actual Taken
+[2023.11.18-08.16.37:198][158]LogBlueprint: Warning: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ResourceFunctions.uasset: [Compiler] Could not find a variable named "actual Taken" in 'ResourceFunctions_C'.
+Make sure 'ResourceFunctions_C' has been compiled for  Get actual Taken
+[2023.11.18-08.16.37:198][158]LogBlueprint: Warning: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ResourceFunctions.uasset: [Compiler] Could not find a variable named "Taker" in 'ResourceFunctions_C'.
+Make sure 'ResourceFunctions_C' has been compiled for  Get Taker
+[2023.11.18-08.16.37:204][158]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ResourceFunctions.uasset: [Compiler] The property associated with  Actual Taken  could not be found in '/Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions_C'
+[2023.11.18-08.16.37:204][158]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ResourceFunctions.uasset: [Compiler] The property associated with  Taker  could not be found in '/Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions_C'
+[2023.11.18-08.16.37:204][158]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ResourceFunctions.uasset: [Compiler] The property associated with  Actual Taken  could not be found in '/Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions_C'
+[2023.11.18-08.16.37:204][158]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ResourceFunctions.uasset: [Compiler] The property associated with  Actual Taken  could not be found in '/Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions_C'
+[2023.11.18-08.16.37:204][158]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ResourceFunctions.uasset: [Compiler] The property associated with  Actual Taken  could not be found in '/Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions_C'
+[2023.11.18-08.16.37:250][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2023.11.18-08.20.16:014][ 81]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-08.20.16:102][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.11.18-08.20.22:430][473]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-08.20.22:440][473]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.18-08.20.22:440][473]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2023.11.18-08.20.22:443][473]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2 ms (total: 110 ms)
+[2023.11.18-08.20.22:443][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-08.20.22:444][473]PIE: New page: PIE session: TopDownMap (Nov 17, 2023, 4:20:22 PM)
+[2023.11.18-08.20.22:444][473]LogPlayLevel: Display: Creating online subsystem for client :Context_62
+[2023.11.18-08.20.22:447][473]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2023.11.18-08.20.22:467][474]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.11.18-08.20.22:480][474]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012604s)
+[2023.11.18-08.20.22:480][474]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.012715s)
+[2023.11.18-08.20.22:503][474]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.11.18-08.20.22:508][474]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-08.20.22:508][474]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-08.20.22:509][474]LogAIModule: Creating AISystem for world TopDownMap
+[2023.11.18-08.20.22:509][474]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.18-08.20.22:510][474]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.18-08.20.22:510][474]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.18-08.20.22:510][474]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.18-08.20.22:512][474]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2023.11.18-08.20.22:512][474]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 192 ms)
+[2023.11.18-08.20.22:512][474]LogPlayLevel: PIE: World Init took: (0.003577s)
+[2023.11.18-08.20.22:512][474]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2023.11.18-08.20.22:512][474]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-08.20.22:512][474]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-08.20.22:512][474]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-08.20.22:512][474]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-08.20.22:512][474]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-08.20.22:512][474]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-08.20.22:512][474]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-08.20.22:512][474]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-08.20.22:513][474]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-08.20.22:513][474]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-08.20.22:513][474]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-08.20.22:515][474]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-08.20.22:586][474]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Razer BlackShark V2 Pro)
+[2023.11.18-08.20.22:586][474]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-08.20.22:586][474]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-08.20.22:586][474]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-08.20.22:587][474]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2023.11.18-08.20.22:587][474]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2023.11.18-08.20.22:590][474]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2023.11.18-08.20.22:590][474]LogInit: FAudioDevice initialized with ID 42.
+[2023.11.18-08.20.22:590][474]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2023.11.18-08.20.22:590][474]LogAudio: Display: Audio Device (ID: 42) registered with world 'TopDownMap'.
+[2023.11.18-08.20.22:590][474]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2023.11.18-08.20.22:598][474]LogLoad: Game class is 'RTS_GameMode_C'
+[2023.11.18-08.20.22:651][474]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.11.18-00.20.22
+[2023.11.18-08.20.22:653][474]LogWorld: Bringing up level for play took: 0.054247
+[2023.11.18-08.20.22:660][474]LogBlueprintUserMessages: [UI_Interactive_Main_C_0] 1 = BP_Dragons_Hoard2 2 = BP_Dragons_Hoard
+[2023.11.18-08.20.22:660][474]PIE: Server logged in
+[2023.11.18-08.20.22:661][474]PIE: Play in editor total start time 0.221 seconds.
+[2023.11.18-08.20.23:490][532]LogBlueprintUserMessages: [RTS_PlayerController_C_0] 1in1
+[2023.11.18-08.20.26:827][813]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_Peon_C_UAID_24418CE3917FB8BB01_1875477015.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2023.11.18-08.20.26:828][813]LogBlueprintUserMessages: [None] Decremented: Stone by 0.0(0.0)
+[2023.11.18-08.20.29:333][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-08.20.29:333][ 23]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.11.18-08.20.29:334][ 23]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-08.20.29:335][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-08.20.29:336][ 23]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2023.11.18-08.20.29:347][ 23]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-08.20.29:353][ 23]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-08.20.29:372][ 23]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.18-08.20.29:377][ 23]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2023.11.18-08.20.29:377][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.11.18-08.20.29:380][ 23]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42
+[2023.11.18-08.20.29:387][ 23]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-08.20.29:395][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.11.18-08.20.29:534][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2023.11.18-08.20.50:123][240]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-08.20.50:204][240]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.18-08.20.53:095][409]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.11.18-08.20.53:105][409]LogContentBundle: [TopDownMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.11.18-08.20.53:105][409]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' started...
+[2023.11.18-08.20.53:107][409]LogWorldPartition: Display: GenerateStreaming for 'TopDownMap' took 2 ms (total: 113 ms)
+[2023.11.18-08.20.53:107][409]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.11.18-08.20.53:107][409]PIE: New page: PIE session: TopDownMap (Nov 17, 2023, 4:20:53 PM)
+[2023.11.18-08.20.53:107][409]LogPlayLevel: Display: Creating online subsystem for client :Context_63
+[2023.11.18-08.20.53:110][409]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2023.11.18-08.20.53:130][410]LogPlayLevel: Creating play world package: /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.11.18-08.20.53:141][410]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010616s)
+[2023.11.18-08.20.53:141][410]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TopDown/Maps/TopDownMap.TopDownMap to /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap (0.010654s)
+[2023.11.18-08.20.53:161][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.18-08.20.53:166][410]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-08.20.53:166][410]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-08.20.53:167][410]LogAIModule: Creating AISystem for world TopDownMap
+[2023.11.18-08.20.53:167][410]LogWorldPartition: ULevel::OnLevelLoaded(TopDownMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.11.18-08.20.53:167][410]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.11.18-08.20.53:167][410]LogWorldPartition: UWorldPartition::Initialize : World = TopDownMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.11.18-08.20.53:167][410]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.11.18-08.20.53:173][410]LogContentBundle: [TopDownMap(Standalone)] Creating new contrainer.
+[2023.11.18-08.20.53:173][410]LogWorldPartition: Display: WorldPartition initialize took 5 ms (total: 198 ms)
+[2023.11.18-08.20.53:173][410]LogPlayLevel: PIE: World Init took: (0.007106s)
+[2023.11.18-08.20.53:173][410]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2023.11.18-08.20.53:174][410]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.11.18-08.20.53:174][410]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.11.18-08.20.53:174][410]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.11.18-08.20.53:174][410]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.11.18-08.20.53:174][410]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.11.18-08.20.53:174][410]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.11.18-08.20.53:174][410]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.11.18-08.20.53:174][410]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.11.18-08.20.53:175][410]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.11.18-08.20.53:175][410]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.11.18-08.20.53:175][410]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.11.18-08.20.53:177][410]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.11.18-08.20.53:251][410]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Razer BlackShark V2 Pro)
+[2023.11.18-08.20.53:251][410]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.11.18-08.20.53:251][410]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.11.18-08.20.53:251][410]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.11.18-08.20.53:252][410]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2023.11.18-08.20.53:252][410]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2023.11.18-08.20.53:254][410]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2023.11.18-08.20.53:254][410]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2023.11.18-08.20.53:254][410]LogInit: FAudioDevice initialized with ID 43.
+[2023.11.18-08.20.53:254][410]LogAudio: Display: Audio Device (ID: 43) registered with world 'TopDownMap'.
+[2023.11.18-08.20.53:254][410]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2023.11.18-08.20.53:257][410]LogLoad: Game class is 'RTS_GameMode_C'
+[2023.11.18-08.20.53:309][410]LogWorld: Bringing World /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap up for play (max tick rate 0) at 2023.11.18-00.20.53
+[2023.11.18-08.20.53:311][410]LogWorld: Bringing up level for play took: 0.052570
+[2023.11.18-08.20.53:316][410]LogBlueprintUserMessages: [UI_Interactive_Main_C_0] 1 = BP_Dragons_Hoard2 2 = BP_Dragons_Hoard
+[2023.11.18-08.20.53:316][410]PIE: Server logged in
+[2023.11.18-08.20.53:317][410]PIE: Play in editor total start time 0.213 seconds.
+[2023.11.18-08.20.54:701][515]LogBlueprintUserMessages: [RTS_PlayerController_C_0] 1in1
+[2023.11.18-08.20.57:472][748]LogAnimation: Warning: Setting an additive animation (MM_Land) on an AnimSingleNodeInstance (AnimSingleNodeInstance /Game/TopDown/Maps/UEDPIE_0_TopDownMap.TopDownMap:PersistentLevel.BP_Peon_C_UAID_24418CE3917FB8BB01_1875477015.CharacterMesh0.AnimSingleNodeInstance_0) is not allowed. This will not function correctly in cooked builds!
+[2023.11.18-08.20.57:472][748]LogBlueprintUserMessages: [None] Decremented: Stone by 4.0(-4.0)
+[2023.11.18-08.20.58:843][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-08.20.58:843][865]LogWorld: BeginTearingDown for /Game/TopDown/Maps/UEDPIE_0_TopDownMap
+[2023.11.18-08.20.58:844][865]LogWorld: UWorld::CleanupWorld for TopDownMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-08.20.58:845][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-08.20.58:845][865]LogContentBundle: [TopDownMap(Standalone)] Deleting container.
+[2023.11.18-08.20.58:854][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.11.18-08.20.58:859][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-08.20.58:878][865]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.11.18-08.20.58:881][865]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2023.11.18-08.20.58:881][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.11.18-08.20.58:884][865]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2023.11.18-08.20.58:890][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.11.18-08.20.58:896][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.18-08.20.59:039][866]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.11.18-08.22.55:130][ 33]LogEditorTransaction: Undo Move Node
+[2023.11.18-08.28.03:957][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2023.11.18-08.28.03:963][234]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.030
+[2023.11.18-08.28.03:963][234]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-08.28.03:963][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-08.28.03:988][234]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto7
+[2023.11.18-08.28.03:989][234]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto77D9D657F423E03D9369EFEB24F97C8C8.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto7.uasset'
+[2023.11.18-08.28.03:990][234]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ResourceFunctions] ([2] browsable assets)...
+[2023.11.18-08.28.03:990][234]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ResourceFunctions]
+[2023.11.18-08.28.04:109][234]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto7
+[2023.11.18-08.28.04:109][234]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctions_Auto70C268B15413143BD66848095510C49D4.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto7.uasset'
+[2023.11.18-08.28.04:111][234]LogFileHelpers: Auto-saving content packages took 0.148
+[2023.11.18-08.29.19:272][965]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.068 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1952 files in 3048 folders with total size 123 MiB.
+[2023.11.18-08.30.24:973][484]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-08.30.25:056][484]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2023.11.18-08.30.40:565][305]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-08.30.40:753][305]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ResourceFunctions
+[2023.11.18-08.30.40:754][305]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctions508B6F4D412C3CF7E308DBB06BC71D03.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ResourceFunctions.uasset'
+[2023.11.18-08.30.40:768][305]LogFileHelpers: InternalPromptForCheckoutAndSave took 202 ms (total: 1.49 sec)
+[2023.11.18-08.30.40:774][305]AssetCheck: New page: Asset Save: ResourceFunctions
+[2023.11.18-08.30.40:774][305]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions
+[2023.11.18-08.30.43:624][434]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2023.11.18-08.30.43:637][434]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-08.30.43:724][434]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/Buildable
+[2023.11.18-08.30.43:725][434]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable1C35DD974A7EBD8479DF279136E82DE4.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/Buildable.uasset'
+[2023.11.18-08.30.43:738][434]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 1.59 sec)
+[2023.11.18-08.30.43:743][434]AssetCheck: New page: Asset Save: Buildable
+[2023.11.18-08.30.43:743][434]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-08.37.51:901][784]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-08.37.51:990][784]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2023.11.18-08.38.04:254][378]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-08.38.04:352][378]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.11.18-08.38.39:253][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-08.38.39:498][369]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ResourceFunctions
+[2023.11.18-08.38.39:499][369]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctionsE67136B54BCC572EBA8253884BEE213D.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ResourceFunctions.uasset'
+[2023.11.18-08.38.39:512][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 259 ms (total: 1.85 sec)
+[2023.11.18-08.38.39:513][369]AssetCheck: New page: Asset Save: ResourceFunctions
+[2023.11.18-08.38.39:513][369]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions
+[2023.11.18-08.44.42:712][787]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-08.44.42:817][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.18-08.45.31:710][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.11.18-08.45.31:717][713]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.031
+[2023.11.18-08.45.31:717][713]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-08.45.31:718][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-08.45.31:744][713]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto8
+[2023.11.18-08.45.31:744][713]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto8EFDAA1B748AFE3D9681C01A9DD86198D.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto8.uasset'
+[2023.11.18-08.45.31:746][713]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ResourceFunctions] ([2] browsable assets)...
+[2023.11.18-08.45.31:746][713]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ResourceFunctions]
+[2023.11.18-08.45.31:863][713]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto8
+[2023.11.18-08.45.31:863][713]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctions_Auto89805D2794FE7473418800884EAC48736.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto8.uasset'
+[2023.11.18-08.45.31:864][713]LogFileHelpers: Auto-saving content packages took 0.148
+[2023.11.18-08.49.52:620][947]BlueprintLog: New page: Compile Buildable
+[2023.11.18-08.49.52:632][947]LogBlueprint: Warning: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] Could not find a variable named "curr Key" in 'Buildable_C'.
+Make sure 'Buildable_C' has been compiled for  Get curr Key
+[2023.11.18-08.49.52:632][947]LogBlueprint: Warning: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] Could not find a variable named "actual Taken" in 'Buildable_C'.
+Make sure 'Buildable_C' has been compiled for  Get actual Taken
+[2023.11.18-08.49.52:632][947]LogBlueprint: Warning: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] Could not find a variable named "actual Taken" in 'Buildable_C'.
+Make sure 'Buildable_C' has been compiled for  Get actual Taken
+[2023.11.18-08.49.52:634][947]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] The property associated with  Actual Taken  could not be found in '/Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable_C'
+[2023.11.18-08.49.52:634][947]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] The property associated with  Actual Taken  could not be found in '/Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable_C'
+[2023.11.18-08.49.52:634][947]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] The property associated with  Curr Key  could not be found in '/Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable_C'
+[2023.11.18-08.49.52:728][947]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.11.18-08.52.18:326][984]BlueprintLog: New page: Compile Buildable
+[2023.11.18-08.52.18:438][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.11.18-08.52.40:320][ 90]BlueprintLog: New page: Compile Buildable
+[2023.11.18-08.52.40:393][ 90]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] Generate Delivery Request.Delivery Map is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get Delivery Map
+[2023.11.18-08.52.40:509][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.18-08.53.06:132][449]BlueprintLog: New page: Compile Buildable
+[2023.11.18-08.53.06:244][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.11.18-08.54.10:942][881]BlueprintLog: New page: Compile Buildable
+[2023.11.18-08.54.11:060][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.11.18-08.56.42:447][478]BlueprintLog: New page: Compile Buildable
+[2023.11.18-08.56.42:524][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.18-08.57.12:494][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2023.11.18-08.57.12:497][652]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.024
+[2023.11.18-08.57.12:498][652]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-08.57.12:498][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-08.57.12:525][652]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto9
+[2023.11.18-08.57.12:525][652]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto9BEE26E7742F80D8048C2919181E9E653.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto9.uasset'
+[2023.11.18-08.57.12:527][652]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ResourceFunctions] ([2] browsable assets)...
+[2023.11.18-08.57.12:528][652]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ResourceFunctions]
+[2023.11.18-08.57.12:644][652]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto9
+[2023.11.18-08.57.12:645][652]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctions_Auto9161253B6431CEAA516590784D16E7B47.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto9.uasset'
+[2023.11.18-08.57.12:646][652]LogFileHelpers: Auto-saving content packages took 0.149
+[2023.11.18-09.07.12:866][653]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.18-09.07.12:872][653]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.031
+[2023.11.18-09.07.12:872][653]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon] ([2] browsable assets)...
+[2023.11.18-09.07.12:950][653]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon]
+[2023.11.18-09.07.12:950][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon]
+[2023.11.18-09.07.12:973][653]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto0
+[2023.11.18-09.07.12:973][653]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_Peon_Auto013449340447C1BDB7CB2F891AC47BF03.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto0.uasset'
+[2023.11.18-09.07.12:974][653]LogFileHelpers: Auto-saving content packages took 0.103
+[2023.11.18-09.11.34:568][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.11.18-09.11.34:574][687]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-09.11.34:676][687]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/Buildable
+[2023.11.18-09.11.34:676][687]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable135BAA0F4D78C8F3532CE8BA9D90F816.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/Buildable.uasset'
+[2023.11.18-09.11.34:796][687]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ResourceFunctions
+[2023.11.18-09.11.34:797][687]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctions67323AD545CC3BBF65A9AA995DD0B037.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ResourceFunctions.uasset'
+[2023.11.18-09.11.34:822][687]LogSavePackage: Moving output files for package: /Game/BluePrints/Units/Friendly/Peon/BP_Peon
+[2023.11.18-09.11.34:823][687]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_PeonA5B7547B46D912F614F0E09E0FE905FA.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/Units/Friendly/Peon/BP_Peon.uasset'
+[2023.11.18-09.11.34:838][687]LogFileHelpers: InternalPromptForCheckoutAndSave took 264 ms (total: 2.11 sec)
+[2023.11.18-09.11.34:844][687]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.18-09.11.34:844][687]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-09.11.34:844][687]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions
+[2023.11.18-09.11.34:844][687]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon
+[2023.11.18-09.11.36:544][876]BlueprintLog: New page: Compile BP_Peon
+[2023.11.18-09.11.36:753][876]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.18-09.11.39:246][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.11.18-09.13.18:401][815]BlueprintLog: New page: Compile BP_Peon
+[2023.11.18-09.13.18:622][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.11.18-09.17.13:471][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2023.11.18-09.17.13:476][785]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.033
+[2023.11.18-09.17.13:476][785]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon] ([2] browsable assets)...
+[2023.11.18-09.17.13:557][785]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon]
+[2023.11.18-09.17.13:557][785]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon]
+[2023.11.18-09.17.13:579][785]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto1
+[2023.11.18-09.17.13:579][785]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_Peon_Auto1DA280F404C936AC5FE89CC8C3788C8E0.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto1.uasset'
+[2023.11.18-09.17.13:581][785]LogFileHelpers: Auto-saving content packages took 0.105
+[2023.11.18-09.22.09:226][719]BlueprintLog: New page: Compile Buildable
+[2023.11.18-09.22.09:291][719]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.11.18-09.27.14:079][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.11.18-09.27.14:084][902]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.030
+[2023.11.18-09.27.14:085][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-09.27.14:085][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-09.27.14:114][902]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto2
+[2023.11.18-09.27.14:115][902]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto279D55759457C0DE734A21AB18DC2772D.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto2.uasset'
+[2023.11.18-09.27.14:116][902]LogFileHelpers: Auto-saving content packages took 0.032
+[2023.11.18-09.29.19:294][409]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.089 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1952 files in 3048 folders with total size 123 MiB.
+[2023.11.18-09.30.05:404][136]LogSlate: Window 'Save Asset As' being destroyed
+[2023.11.18-09.30.07:654][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.11.18-09.30.07:662][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-09.30.07:769][267]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/Buildable
+[2023.11.18-09.30.07:770][267]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable2AA773CF40EC83BB41D4D68DFB4833B1.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/Buildable.uasset'
+[2023.11.18-09.30.07:792][267]LogSavePackage: Moving output files for package: /Game/BluePrints/Units/Friendly/Peon/BP_Peon
+[2023.11.18-09.30.07:793][267]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_PeonB27F21C64EEE4A910BC81397188C237C.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/Units/Friendly/Peon/BP_Peon.uasset'
+[2023.11.18-09.30.07:806][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2.26 sec)
+[2023.11.18-09.30.07:811][267]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.18-09.30.07:811][267]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-09.30.07:811][267]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon
+[2023.11.18-09.35.21:551][251]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-09.35.21:667][251]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.18-09.35.24:133][350]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2023.11.18-09.35.24:140][350]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-09.35.24:335][350]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ResourceFunctions
+[2023.11.18-09.35.24:336][350]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctions082C0CA54B95F4288B1E48A4735E1B5F.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ResourceFunctions.uasset'
+[2023.11.18-09.35.24:353][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 2.47 sec)
+[2023.11.18-09.35.24:358][350]AssetCheck: New page: Asset Save: ResourceFunctions
+[2023.11.18-09.35.24:358][350]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions
