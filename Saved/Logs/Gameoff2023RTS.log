@@ -4893,3 +4893,229 @@ Make sure 'Buildable_C' has been compiled for  Get actual Taken
 [2023.11.18-09.35.24:353][350]LogFileHelpers: InternalPromptForCheckoutAndSave took 213 ms (total: 2.47 sec)
 [2023.11.18-09.35.24:358][350]AssetCheck: New page: Asset Save: ResourceFunctions
 [2023.11.18-09.35.24:358][350]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions
+[2023.11.18-09.46.53:210][237]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2023.11.18-09.46.53:214][237]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.035
+[2023.11.18-09.46.53:214][237]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-09.46.53:214][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-09.46.53:243][237]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto3
+[2023.11.18-09.46.53:244][237]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto34F7941CD4B6AF4C847522E9FC7E6CDB5.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto3.uasset'
+[2023.11.18-09.46.53:246][237]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon] ([2] browsable assets)...
+[2023.11.18-09.46.53:363][237]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon]
+[2023.11.18-09.46.53:363][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon]
+[2023.11.18-09.46.53:384][237]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto3
+[2023.11.18-09.46.53:385][237]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_Peon_Auto3619E277E486AEBC4FDDC86AC471A0B3B.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto3.uasset'
+[2023.11.18-09.46.53:386][237]LogFileHelpers: Auto-saving content packages took 0.172
+[2023.11.18-09.47.03:285][752]BlueprintLog: New page: Compile BP_Peon
+[2023.11.18-09.47.03:505][752]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.18-09.55.50:478][924]BlueprintLog: New page: Compile Buildable
+[2023.11.18-09.55.50:552][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.11.18-09.59.13:455][ 32]BlueprintLog: New page: Compile Buildable
+[2023.11.18-09.59.13:588][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.18-09.59.21:087][442]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2023.11.18-09.59.21:093][442]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-09.59.21:198][442]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/Buildable
+[2023.11.18-09.59.21:199][442]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable19740660419BD4C31AADC4BE590D9DC8.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/Buildable.uasset'
+[2023.11.18-09.59.21:299][442]LogSavePackage: Moving output files for package: /Game/BluePrints/Units/Friendly/Peon/BP_Peon
+[2023.11.18-09.59.21:300][442]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_Peon8364E6084FF2150FED58FCA007E27C0B.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/Units/Friendly/Peon/BP_Peon.uasset'
+[2023.11.18-09.59.21:318][442]LogFileHelpers: InternalPromptForCheckoutAndSave took 225 ms (total: 2.70 sec)
+[2023.11.18-09.59.21:323][442]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.18-09.59.21:323][442]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-09.59.21:323][442]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon
+[2023.11.18-10.02.17:756][538]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2023.11.18-10.02.17:759][538]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.028
+[2023.11.18-10.02.17:760][538]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-10.02.17:760][538]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-10.02.17:789][538]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto4
+[2023.11.18-10.02.17:790][538]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto445DFDF534ACD5BCC71C35C8A09E3ADD3.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto4.uasset'
+[2023.11.18-10.02.17:791][538]LogFileHelpers: Auto-saving content packages took 0.032
+[2023.11.18-10.03.26:013][376]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.11.18-10.03.26:018][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.03.26:107][376]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/Buildable
+[2023.11.18-10.03.26:108][376]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BuildableE30BA44B4C197C17801B648EACF2E906.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/Buildable.uasset'
+[2023.11.18-10.03.26:125][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 2.80 sec)
+[2023.11.18-10.03.26:130][376]AssetCheck: New page: Asset Save: Buildable
+[2023.11.18-10.03.26:130][376]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-10.10.00:641][803]LogShaderCompilers: Display: ================================================
+[2023.11.18-10.10.00:641][803]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.11.18-10.10.00:642][803]LogShaderCompilers: Display: Total job queries 8, among them cache hits 3 (37.50%)
+[2023.11.18-10.10.00:642][803]LogShaderCompilers: Display: Tracking 5 distinct input hashes that result in 5 distinct outputs (100.00%)
+[2023.11.18-10.10.00:642][803]LogShaderCompilers: Display: RAM used: 119.18 KiB of 1.60 GiB budget. Usage: 0.01%
+[2023.11.18-10.10.00:642][803]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.11.18-10.10.00:642][803]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.11.18-10.10.00:642][803]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2023.11.18-10.10.00:642][803]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.11.18-10.10.00:642][803]LogShaderCompilers: Display: ================================================
+[2023.11.18-10.10.03:621][989]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BluePrints/UI/UI_BuildMenuButton.UI_BuildMenuButton
+[2023.11.18-10.10.03:624][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.10.03:624][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.10.03:633][989]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.10.03:633][989]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.10.03:643][989]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2023.11.18-10.10.04:058][989]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2023.11.18-10.10.32:821][532]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.10.32:821][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.10.32:834][532]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.10.32:834][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.10.37:573][770]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BluePrints/UI/UI_Interactive_Main.UI_Interactive_Main
+[2023.11.18-10.10.37:573][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.10.37:573][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.10.37:586][770]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.10.37:586][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.11.32:319][330]BlueprintLog: New page: Compile UI_Interactive_Main
+[2023.11.18-10.11.32:405][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.11.18-10.11.35:973][484]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.11.35:973][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.11.35:981][484]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.11.35:981][484]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.11.40:293][739]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/RTS_PlayerController.RTS_PlayerController
+[2023.11.18-10.11.40:294][739]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.11.40:294][739]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.12.11:130][688]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Placeable.Placeable
+[2023.11.18-10.12.11:131][688]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-10.12.11:131][688]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-10.12.28:373][696]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2023.11.18-10.12.28:373][696]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.18-10.12.33:956][984]BlueprintLog: New page: Compile RTS_PlayerController
+[2023.11.18-10.12.34:073][984]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2023.11.18-10.13.08:985][658]BlueprintLog: New page: Compile RTS_PlayerController
+[2023.11.18-10.13.09:089][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.11.18-10.14.51:372][590]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.11.18-10.14.51:376][590]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.028
+[2023.11.18-10.14.51:376][590]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/UI/UI_Interactive_Main] ([2] browsable assets)...
+[2023.11.18-10.14.51:380][590]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BluePrints/UI/UI_Interactive_Main.UI_Interactive_Main]
+[2023.11.18-10.14.51:380][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/UI/UI_Interactive_Main]
+[2023.11.18-10.14.51:498][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/UI/UI_Interactive_Main_Auto5
+[2023.11.18-10.14.51:499][590]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/UI_Interactive_Main_Auto51511DB9D4EE6CCF1A6C6D685B88C084C.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/UI/UI_Interactive_Main_Auto5.uasset'
+[2023.11.18-10.14.51:500][590]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/RTS_PlayerController] ([2] browsable assets)...
+[2023.11.18-10.14.51:500][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/RTS_PlayerController]
+[2023.11.18-10.14.51:567][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/RTS_PlayerController_Auto5
+[2023.11.18-10.14.51:568][590]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/RTS_PlayerController_Auto52BB1724749EE253D05E9E0A32A3BF369.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/RTS_PlayerController_Auto5.uasset'
+[2023.11.18-10.14.51:570][590]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon] ([2] browsable assets)...
+[2023.11.18-10.14.51:706][590]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon]
+[2023.11.18-10.14.51:706][590]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon]
+[2023.11.18-10.14.51:726][590]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto5
+[2023.11.18-10.14.51:727][590]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_Peon_Auto511DEFBD74AD452C37278E5BEB2CC488B.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto5.uasset'
+[2023.11.18-10.14.51:728][590]LogFileHelpers: Auto-saving content packages took 0.353
+[2023.11.18-10.16.02:019][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.11.18-10.16.02:025][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.16.02:135][198]LogSavePackage: Moving output files for package: /Game/BluePrints/UI/UI_Interactive_Main
+[2023.11.18-10.16.02:136][198]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/UI_Interactive_MainB5461E4243FE4166EF7330BDD669E181.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/UI/UI_Interactive_Main.uasset'
+[2023.11.18-10.16.02:199][198]LogSavePackage: Moving output files for package: /Game/BluePrints/RTS_PlayerController
+[2023.11.18-10.16.02:200][198]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/RTS_PlayerControllerCF3467184D98D26DB8B260B5F099652D.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/RTS_PlayerController.uasset'
+[2023.11.18-10.16.02:230][198]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/Buildable
+[2023.11.18-10.16.02:231][198]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BuildableB8DCCD18423C39342AED9DB0264B2F16.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/Buildable.uasset'
+[2023.11.18-10.16.02:251][198]LogSavePackage: Moving output files for package: /Game/BluePrints/Units/Friendly/Peon/BP_Peon
+[2023.11.18-10.16.02:252][198]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_Peon7AFD612B40C7B2B35B39438E971CDE1C.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/Units/Friendly/Peon/BP_Peon.uasset'
+[2023.11.18-10.16.02:269][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 245 ms (total: 3.05 sec)
+[2023.11.18-10.16.02:276][198]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.18-10.16.02:277][198]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BluePrints/UI/UI_Interactive_Main.UI_Interactive_Main
+[2023.11.18-10.16.02:277][198]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/RTS_PlayerController.RTS_PlayerController
+[2023.11.18-10.16.02:277][198]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-10.16.02:277][198]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon
+[2023.11.18-10.22.55:911][155]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.22.55:934][155]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] The current value of the ' Transfer Map ' pin is invalid: Map inputs (like 'Transfer Map') must have an input wired into them (try connecting a MakeMap node).
+[2023.11.18-10.22.55:934][155]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2023.11.18-10.22.56:013][155]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2023.11.18-10.25.43:906][334]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-10.25.43:996][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.11.18-10.26.08:909][724]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.26.08:927][724]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2023.11.18-10.26.08:984][724]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.11.18-10.26.15:128][ 52]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.26.15:144][ 52]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2023.11.18-10.26.15:194][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.18-10.26.18:317][228]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.26.18:335][228]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2023.11.18-10.26.18:385][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.18-10.26.24:459][561]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.26.24:475][561]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] The current value of the ' Target Map ' pin is invalid: Map inputs (like 'Target Map') must have an input wired into them (try connecting a MakeMap node).
+[2023.11.18-10.26.24:527][561]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.11.18-10.27.05:687][873]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.27.05:759][873]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2023.11.18-10.29.19:298][370]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.093 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1952 files in 3048 folders with total size 123 MiB.
+[2023.11.18-10.31.26:765][989]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-10.31.26:867][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.11.18-10.35.57:552][352]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.35.57:647][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.18-10.36.21:604][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2023.11.18-10.36.21:614][633]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.36.21:735][633]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/Buildable
+[2023.11.18-10.36.21:736][633]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable0FECDBAD4E2B1F4A6B854ABFE7F6FD66.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/Buildable.uasset'
+[2023.11.18-10.36.21:864][633]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ResourceFunctions
+[2023.11.18-10.36.21:865][633]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctionsBACD05F742F05C53713332A63E642457.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ResourceFunctions.uasset'
+[2023.11.18-10.36.21:882][633]LogFileHelpers: InternalPromptForCheckoutAndSave took 268 ms (total: 3.32 sec)
+[2023.11.18-10.36.21:889][633]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.18-10.36.21:889][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-10.36.21:889][633]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions
+[2023.11.18-10.41.03:163][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2023.11.18-10.41.03:168][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.032
+[2023.11.18-10.41.03:169][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-10.41.03:169][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-10.41.03:211][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto6
+[2023.11.18-10.41.03:212][580]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto693216E224E118F58432BB6A0DD7B8AFA.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto6.uasset'
+[2023.11.18-10.41.03:213][580]LogFileHelpers: Auto-saving content packages took 0.045
+[2023.11.18-10.42.15:459][957]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.42.15:525][957]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2023.11.18-10.46.26:352][934]LogEditorTransaction: Undo Move Node
+[2023.11.18-10.46.29:070][ 62]LogEditorTransaction: Undo Move Node
+[2023.11.18-10.46.35:109][406]LogEditorTransaction: Undo Move Node
+[2023.11.18-10.48.09:982][787]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.48.09:998][787]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\FunctionLibs\ActorComponents\Buildable.uasset: [Compiler] Default value '' for  Delivery Map  is invalid: 'Map inputs (like 'Delivery Map') must have an input wired into them (try connecting a MakeMap node).'
+[2023.11.18-10.48.10:051][787]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.18-10.49.55:187][457]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.49.55:259][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2023.11.18-10.50.40:086][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.11.18-10.50.40:092][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.50.40:196][582]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/Buildable
+[2023.11.18-10.50.40:197][582]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable5E5DA65E48CF33BD8702138DFEBDF4B4.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/Buildable.uasset'
+[2023.11.18-10.50.40:215][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 3.44 sec)
+[2023.11.18-10.50.40:221][582]AssetCheck: New page: Asset Save: Buildable
+[2023.11.18-10.50.40:221][582]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-10.52.13:813][  6]BlueprintLog: New page: Compile BP_Peon
+[2023.11.18-10.52.14:109][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.18-10.53.35:793][ 92]BlueprintLog: New page: Compile BP_Peon
+[2023.11.18-10.53.36:021][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.11.18-10.53.37:868][260]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.11.18-10.53.39:183][260]LogSlate: Window 'Save Content' being destroyed
+[2023.11.18-10.53.44:500][576]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.53.44:568][576]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.11.18-10.53.53:006][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.11.18-10.53.53:014][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.53.53:112][ 35]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/Buildable
+[2023.11.18-10.53.53:112][ 35]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BuildableF130312344EAE3D0DA0CF687B9274036.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/Buildable.uasset'
+[2023.11.18-10.53.53:189][ 35]LogSavePackage: Moving output files for package: /Game/BluePrints/Units/Friendly/Peon/BP_Peon
+[2023.11.18-10.53.53:190][ 35]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_PeonFD3D9E874A85D9AA59A4AEA7F7F06A4C.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/Units/Friendly/Peon/BP_Peon.uasset'
+[2023.11.18-10.53.53:204][ 35]LogFileHelpers: InternalPromptForCheckoutAndSave took 189 ms (total: 3.63 sec)
+[2023.11.18-10.53.53:208][ 35]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.18-10.53.53:208][ 35]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-10.53.53:208][ 35]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon
+[2023.11.18-10.55.25:723][356]BlueprintLog: New page: Compile Buildable
+[2023.11.18-10.55.25:786][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.11.18-10.58.42:143][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.11.18-10.58.42:147][927]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.030
+[2023.11.18-10.58.42:147][927]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable] ([2] browsable assets)...
+[2023.11.18-10.58.42:147][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/Buildable]
+[2023.11.18-10.58.42:185][927]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto7
+[2023.11.18-10.58.42:185][927]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable_Auto77CEA14C34EB8E5FA3F90CFA36EA851A1.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/Buildable_Auto7.uasset'
+[2023.11.18-10.58.42:187][927]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon] ([2] browsable assets)...
+[2023.11.18-10.58.42:300][927]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon]
+[2023.11.18-10.58.42:300][927]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon]
+[2023.11.18-10.58.42:322][927]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto7
+[2023.11.18-10.58.42:323][927]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_Peon_Auto7B1DA5E49427A9EF141E9199C2804BD21.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto7.uasset'
+[2023.11.18-10.58.42:324][927]LogFileHelpers: Auto-saving content packages took 0.178
+[2023.11.18-10.59.03:976][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.11.18-10.59.03:983][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-10.59.04:092][988]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/Buildable
+[2023.11.18-10.59.04:093][988]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Buildable0E6F915A45CF45A61C6083BFE84246E9.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/Buildable.uasset'
+[2023.11.18-10.59.04:118][988]LogSavePackage: Moving output files for package: /Game/BluePrints/Units/Friendly/Peon/BP_Peon
+[2023.11.18-10.59.04:119][988]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_Peon59C9A48B46598721BC5947ADB95BEB24.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/Units/Friendly/Peon/BP_Peon.uasset'
+[2023.11.18-10.59.04:137][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 3.78 sec)
+[2023.11.18-10.59.04:143][988]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.18-10.59.04:143][988]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/Buildable.Buildable
+[2023.11.18-10.59.04:143][988]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon
+[2023.11.18-11.05.00:526][249]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-11.08.40:158][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-11.08.40:229][143]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-11.08.40:268][144]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-11.08.40:304][145]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.18-11.08.40:341][146]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
