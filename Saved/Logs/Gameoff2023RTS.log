@@ -4432,3 +4432,57 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2023.11.18-00.38.53:660][469]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions
 [2023.11.18-00.38.53:660][469]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.11.18-00.38.53:660][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.18-01.29.19:282][249]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.079 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1952 files in 3048 folders with total size 123 MiB.
+[2023.11.18-02.29.19:312][ 45]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.109 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1952 files in 3048 folders with total size 123 MiB.
+[2023.11.18-03.13.44:440][ 92]BlueprintLog: New page: Compile BP_Peon
+[2023.11.18-03.13.44:684][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.11.18-03.14.17:331][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.11.18-03.14.17:335][ 32]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.027
+[2023.11.18-03.14.17:335][ 32]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon] ([2] browsable assets)...
+[2023.11.18-03.14.17:512][ 32]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon]
+[2023.11.18-03.14.17:513][ 32]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon]
+[2023.11.18-03.14.17:535][ 32]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto9
+[2023.11.18-03.14.17:535][ 32]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_Peon_Auto9E6D3F931451E4AA73D6612BD151ABAED.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto9.uasset'
+[2023.11.18-03.14.17:536][ 32]LogFileHelpers: Auto-saving content packages took 0.202
+[2023.11.18-03.29.19:279][738]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.076 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1952 files in 3048 folders with total size 123 MiB.
+[2023.11.18-04.29.19:291][535]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.087 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1952 files in 3048 folders with total size 123 MiB.
+[2023.11.18-05.29.19:281][332]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.077 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1952 files in 3048 folders with total size 123 MiB.
+[2023.11.18-06.29.19:290][129]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.086 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1952 files in 3048 folders with total size 123 MiB.
+[2023.11.18-07.01.51:117][165]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2023.11.18-07.01.51:124][165]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.085
+[2023.11.18-07.01.51:127][165]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ResourceFunctions] ([2] browsable assets)...
+[2023.11.18-07.01.51:127][165]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ResourceFunctions]
+[2023.11.18-07.01.51:278][165]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto0
+[2023.11.18-07.01.51:279][165]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctions_Auto0B07319AD473093C667138E955B437924.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto0.uasset'
+[2023.11.18-07.01.51:281][165]LogFileHelpers: Auto-saving content packages took 0.157
+[2023.11.18-07.16.19:708][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.11.18-07.16.19:710][917]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.027
+[2023.11.18-07.16.19:711][917]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ResourceFunctions] ([2] browsable assets)...
+[2023.11.18-07.16.19:711][917]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ResourceFunctions]
+[2023.11.18-07.16.19:831][917]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto1
+[2023.11.18-07.16.19:832][917]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctions_Auto1A88414014273277C4E8503A209F0609C.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto1.uasset'
+[2023.11.18-07.16.19:833][917]LogFileHelpers: Auto-saving content packages took 0.123
+[2023.11.18-07.21.50:967][623]BlueprintLog: New page: Compile ResourceFunctions
+[2023.11.18-07.21.51:079][623]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.11.18-07.26.20:267][786]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.11.18-07.26.20:272][786]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TopDown/Maps/TopDownMap' took 0.040
+[2023.11.18-07.26.20:273][786]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ResourceFunctions] ([2] browsable assets)...
+[2023.11.18-07.26.20:273][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ResourceFunctions]
+[2023.11.18-07.26.20:395][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto2
+[2023.11.18-07.26.20:396][786]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctions_Auto2508EE7294032B720A20C9FB15DF02C6E.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ResourceFunctions_Auto2.uasset'
+[2023.11.18-07.26.20:398][786]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon] ([2] browsable assets)...
+[2023.11.18-07.26.20:582][786]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon]
+[2023.11.18-07.26.20:583][786]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Units/Friendly/Peon/BP_Peon]
+[2023.11.18-07.26.20:606][786]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto2
+[2023.11.18-07.26.20:607][786]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_Peon_Auto25F3A1CA047109E42D4BAE7A0A0D286C9.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/Units/Friendly/Peon/BP_Peon_Auto2.uasset'
+[2023.11.18-07.26.20:608][786]LogFileHelpers: Auto-saving content packages took 0.336
+[2023.11.18-07.26.30:048][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.11.18-07.26.30:055][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.18-07.26.30:226][ 88]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ResourceFunctions
+[2023.11.18-07.26.30:227][ 88]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/ResourceFunctionsCB117FEE4AB557345ECD4C840BBEE238.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ResourceFunctions.uasset'
+[2023.11.18-07.26.30:249][ 88]LogSavePackage: Moving output files for package: /Game/BluePrints/Units/Friendly/Peon/BP_Peon
+[2023.11.18-07.26.30:250][ 88]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_Peon11C1E55348F60C9BB073D68D675B73B2.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/Units/Friendly/Peon/BP_Peon.uasset'
+[2023.11.18-07.26.30:264][ 88]LogFileHelpers: InternalPromptForCheckoutAndSave took 208 ms (total: 1.18 sec)
+[2023.11.18-07.26.30:269][ 88]AssetCheck: New page: Asset Save: multiple assets
+[2023.11.18-07.26.30:269][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ResourceFunctions.ResourceFunctions
+[2023.11.18-07.26.30:269][ 88]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Units/Friendly/Peon/BP_Peon.BP_Peon
