@@ -1961,3 +1961,10 @@ Script Stack (0 frames) :
 [2023.11.20-23.40.06:943][806]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/LevelUp_Auto5
 [2023.11.20-23.40.06:943][806]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/LevelUp_Auto58E85D0BF447E4E859C19FCA6DB3103D0.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/LevelUp_Auto5.uasset'
 [2023.11.20-23.40.06:945][806]LogFileHelpers: Auto-saving content packages took 0.031
+[2023.11.21-00.20.51:455][528]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.11.21-00.20.51:462][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-00.20.51:557][528]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/LevelUp
+[2023.11.21-00.20.51:557][528]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/LevelUp8ACFE1A44EF1F0CE5E058DB144FACACF.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/LevelUp.uasset'
+[2023.11.21-00.20.51:573][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 111 ms (total: 1.59 sec)
+[2023.11.21-00.20.51:578][528]AssetCheck: New page: Asset Save: LevelUp
+[2023.11.21-00.20.51:578][528]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/LevelUp.LevelUp
