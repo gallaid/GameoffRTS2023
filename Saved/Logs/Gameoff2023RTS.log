@@ -2302,3 +2302,175 @@ Make sure 'BP_Building_Resource_Takes_Labor_Base_C' has been compiled for  Set D
 [2023.11.21-08.41.12:117][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 3.43 sec)
 [2023.11.21-08.41.12:122][847]AssetCheck: New page: Asset Save: LevelUp
 [2023.11.21-08.41.12:122][847]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/LevelUp.LevelUp
+[2023.11.21-08.42.42:423][808]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Map_Entities/BP_CombatActorBase.BP_CombatActorBase
+[2023.11.21-08.42.42:423][808]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.21-08.42.42:423][808]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.21-08.44.41:107][709]BlueprintLog: New page: Compile BP_CombatActorBase
+[2023.11.21-08.44.41:314][709]LogBlueprint: Warning: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\Map_Entities\Buildings\ResourceMapped\Takes_Labor\BP_Building_Resource_Takes_Labor_Base.uasset: [Compiler] Could not find a variable named "Delivered Materials" in 'BP_Building_Resource_Takes_Labor_Base_C'.
+Make sure 'BP_Building_Resource_Takes_Labor_Base_C' has been compiled for  Get Delivered Materials
+[2023.11.21-08.44.41:314][709]LogBlueprint: Warning: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\Map_Entities\Buildings\ResourceMapped\Takes_Labor\BP_Building_Resource_Takes_Labor_Base.uasset: [Compiler] Could not find a variable named "Delivered Materials" in 'BP_Building_Resource_Takes_Labor_Base_C'.
+Make sure 'BP_Building_Resource_Takes_Labor_Base_C' has been compiled for  Set Delivered Materials
+[2023.11.21-08.44.41:332][709]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\Map_Entities\Buildings\ResourceMapped\Takes_Labor\BP_Building_Resource_Takes_Labor_Base.uasset: [Compiler] The property associated with  Delivered Materials  could not be found in '/Game/BluePrints/Map_Entities/Buildings/ResourceMapped/Takes_Labor/BP_Building_Resource_Takes_Labor_Base.BP_Building_Resource_Takes_Labor_Base_C'
+[2023.11.21-08.44.41:332][709]LogBlueprint: Error: [AssetLog] C:\Users\Haineko\Pictures\GIT projects\ApparentlythGIT_Folder_wtf\GameoffRTS2023\Content\BluePrints\Map_Entities\Buildings\ResourceMapped\Takes_Labor\BP_Building_Resource_Takes_Labor_Base.uasset: [Compiler] The property associated with  Delivered Materials  could not be found in '/Game/BluePrints/Map_Entities/Buildings/ResourceMapped/Takes_Labor/BP_Building_Resource_Takes_Labor_Base.BP_Building_Resource_Takes_Labor_Base_C'
+[2023.11.21-08.44.41:720][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.11.21-08.47.30:494][266]LogViewport: Scene viewport resized to 1413x823, mode Windowed.
+[2023.11.21-08.48.50:051][236]LogSlate: Window 'BP_CombatActorBase' being destroyed
+[2023.11.21-08.48.50:061][236]LogSlate: Window 'BP_CombatActorBase' being destroyed
+[2023.11.21-08.48.50:069][236]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2023.11.21-08.48.50:069][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-08.48.50:209][236]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2023.11.21-08.48.50:209][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-08.48.50:725][236]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.11.21-08.48.50:725][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-08.48.50:842][236]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.11.21-08.48.50:842][236]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-08.49.00:632][ 28]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/DamageUtilities.DamageUtilities
+[2023.11.21-08.49.00:632][ 28]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.21-08.49.00:632][ 28]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.21-08.51.01:863][821]LogSlate: Window 'DamageUtilities' being destroyed
+[2023.11.21-08.51.01:871][821]LogSlate: Window 'DamageUtilities' being destroyed
+[2023.11.21-08.51.01:878][821]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.11.21-08.51.01:878][821]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-08.51.03:465][911]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/LevelUp.LevelUp
+[2023.11.21-08.51.03:465][911]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.21-08.51.03:465][911]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.21-08.52.48:236][ 28]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/BluePrints/FunctionLibs/ActorComponents/TemporaryStatBlock.TemporaryStatBlock
+[2023.11.21-08.53.55:906][916]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-08.53.55:979][916]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/TemporaryStatBlock
+[2023.11.21-08.53.55:980][916]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/TemporaryStatBlock482715ED4F0DECAC6C4E9E9AE9BC6F79.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/TemporaryStatBlock.uasset'
+[2023.11.21-08.53.55:995][916]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 3.52 sec)
+[2023.11.21-08.53.55:996][916]AssetCheck: New page: Asset Save: TemporaryStatBlock
+[2023.11.21-08.53.55:996][916]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/BluePrints/FunctionLibs/ActorComponents/TemporaryStatBlock.TemporaryStatBlock
+[2023.11.21-08.56.25:850][621]BlueprintLog: New page: Compile LevelUp
+[2023.11.21-08.56.25:924][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2023.11.21-08.57.14:169][525]BlueprintLog: New page: Compile LevelUp
+[2023.11.21-08.57.14:222][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.21-08.57.19:028][845]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-08.57.19:100][845]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/TemporaryStatBlock
+[2023.11.21-08.57.19:100][845]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/TemporaryStatBlockFAA82C9647194520B6957EAB12832D7A.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/TemporaryStatBlock.uasset'
+[2023.11.21-08.57.19:115][845]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 3.61 sec)
+[2023.11.21-08.57.19:116][845]AssetCheck: New page: Asset Save: TemporaryStatBlock
+[2023.11.21-08.57.19:116][845]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/BluePrints/FunctionLibs/ActorComponents/TemporaryStatBlock.TemporaryStatBlock
+[2023.11.21-08.58.14:152][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-08.58.14:221][627]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/TemporaryStatBlock
+[2023.11.21-08.58.14:221][627]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/TemporaryStatBlock6A1AC48D47643EC3271F8EB14840C0B8.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/TemporaryStatBlock.uasset'
+[2023.11.21-08.58.14:237][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 3.69 sec)
+[2023.11.21-08.58.14:239][627]AssetCheck: New page: Asset Save: TemporaryStatBlock
+[2023.11.21-08.58.14:239][627]LogContentValidation: Display: Validating /Script/Engine.UserDefinedStruct /Game/BluePrints/FunctionLibs/ActorComponents/TemporaryStatBlock.TemporaryStatBlock
+[2023.11.21-08.58.16:546][758]BlueprintLog: New page: Compile LevelUp
+[2023.11.21-08.58.16:667][758]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.11.21-08.58.53:719][198]BlueprintLog: New page: Compile LevelUp
+[2023.11.21-08.58.53:769][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2023.11.21-09.00.37:954][519]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.11.21-09.00.37:960][519]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BluePrints/LevelStuff/NewLevel' took 0.023
+[2023.11.21-09.00.37:960][519]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Map_Entities/BP_CombatActorBase] ([2] browsable assets)...
+[2023.11.21-09.00.38:112][519]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Map_Entities/BP_CombatActorBase.BP_CombatActorBase]
+[2023.11.21-09.00.38:112][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Map_Entities/BP_CombatActorBase]
+[2023.11.21-09.00.38:127][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Map_Entities/BP_CombatActorBase_Auto5
+[2023.11.21-09.00.38:127][519]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_CombatActorBase_Auto5075C7C79426269AA8582BBBB248FFDCF.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/Map_Entities/BP_CombatActorBase_Auto5.uasset'
+[2023.11.21-09.00.38:129][519]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/LevelUp] ([2] browsable assets)...
+[2023.11.21-09.00.38:129][519]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/LevelUp]
+[2023.11.21-09.00.38:183][519]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/LevelUp_Auto5
+[2023.11.21-09.00.38:184][519]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/LevelUp_Auto51E54EA25432CCCE6ADB0A3BD514B3C8E.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/LevelUp_Auto5.uasset'
+[2023.11.21-09.00.38:185][519]LogFileHelpers: Auto-saving content packages took 0.226
+[2023.11.21-09.02.56:167][ 74]BlueprintLog: New page: Compile LevelUp
+[2023.11.21-09.02.56:223][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2023.11.21-09.06.44:965][322]BlueprintLog: New page: Compile LevelUp
+[2023.11.21-09.06.45:020][322]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.11.21-09.06.46:416][393]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-09.06.46:549][393]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/LevelUp
+[2023.11.21-09.06.46:550][393]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/LevelUpA47F58214EF6B43CD8E507BDBA0909EF.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/LevelUp.uasset'
+[2023.11.21-09.06.46:567][393]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 3.84 sec)
+[2023.11.21-09.06.46:569][393]AssetCheck: New page: Asset Save: LevelUp
+[2023.11.21-09.06.46:569][393]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/LevelUp.LevelUp
+[2023.11.21-09.06.58:838][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-09.06.58:952][834]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/LevelUp
+[2023.11.21-09.06.58:953][834]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/LevelUp0C7745DE4FADCB1AD0619C8C063B1BC3.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/LevelUp.uasset'
+[2023.11.21-09.06.58:968][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 3.97 sec)
+[2023.11.21-09.06.58:970][834]AssetCheck: New page: Asset Save: LevelUp
+[2023.11.21-09.06.58:970][834]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/LevelUp.LevelUp
+[2023.11.21-09.07.00:699][935]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.11.21-09.07.00:706][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-09.07.00:787][935]LogSavePackage: Moving output files for package: /Game/BluePrints/Map_Entities/BP_CombatActorBase
+[2023.11.21-09.07.00:788][935]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/BP_CombatActorBase74F09ED943499677C0E7A7900EE7ADC9.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/Map_Entities/BP_CombatActorBase.uasset'
+[2023.11.21-09.07.00:806][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 4.07 sec)
+[2023.11.21-09.07.00:811][935]AssetCheck: New page: Asset Save: BP_CombatActorBase
+[2023.11.21-09.07.00:811][935]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/Map_Entities/BP_CombatActorBase.BP_CombatActorBase
+[2023.11.21-09.07.17:317][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2023.11.21-09.09.44:082][241]BlueprintLog: New page: Compile LevelUp
+[2023.11.21-09.09.44:132][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.21-09.10.38:471][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.21-09.10.38:474][936]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BluePrints/LevelStuff/NewLevel' took 0.021
+[2023.11.21-09.10.38:475][936]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/LevelUp] ([2] browsable assets)...
+[2023.11.21-09.10.38:475][936]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/LevelUp]
+[2023.11.21-09.10.38:527][936]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/LevelUp_Auto6
+[2023.11.21-09.10.38:528][936]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/LevelUp_Auto65FA3362F40AF6CAE5391E0BBECBDBABC.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/LevelUp_Auto6.uasset'
+[2023.11.21-09.10.38:529][936]LogFileHelpers: Auto-saving content packages took 0.056
+[2023.11.21-09.24.13:396][605]BlueprintLog: New page: Compile LevelUp
+[2023.11.21-09.24.13:452][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2023.11.21-09.24.33:671][766]LogSlate: Window 'Save Asset As' being destroyed
+[2023.11.21-09.24.35:731][874]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.11.21-09.24.35:738][874]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.11.21-09.24.35:862][874]LogSavePackage: Moving output files for package: /Game/BluePrints/FunctionLibs/ActorComponents/LevelUp
+[2023.11.21-09.24.35:862][874]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/LevelUp5AD5E74E4AF940A8FE0B4EBF405F1B89.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Content/BluePrints/FunctionLibs/ActorComponents/LevelUp.uasset'
+[2023.11.21-09.24.35:879][874]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 4.22 sec)
+[2023.11.21-09.24.35:884][874]AssetCheck: New page: Asset Save: LevelUp
+[2023.11.21-09.24.35:884][874]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/LevelUp.LevelUp
+[2023.11.21-09.24.38:034][  3]LogSlate: Window 'TemporaryStatBlock' being destroyed
+[2023.11.21-09.24.38:042][  3]LogSlate: Window 'TemporaryStatBlock' being destroyed
+[2023.11.21-09.24.38:049][  3]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.11.21-09.24.38:049][  3]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.21-09.28.29:246][221]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.094 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2227 files in 3390 folders with total size 136 MiB.
+[2023.11.21-09.42.56:195][821]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/FunctionLibs/ActorComponents/DamageUtilities.DamageUtilities
+[2023.11.21-09.42.56:195][821]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.21-09.42.56:195][821]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.21-09.43.44:847][378]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2023.11.21-09.43.44:851][378]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BluePrints/LevelStuff/NewLevel' took 0.021
+[2023.11.21-09.43.44:852][378]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/DamageUtilities] ([2] browsable assets)...
+[2023.11.21-09.43.44:853][378]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/DamageUtilities]
+[2023.11.21-09.43.45:126][378]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/DamageUtilities_Auto7
+[2023.11.21-09.43.45:126][378]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/DamageUtilities_Auto7D676E545443D1A1541272AAE9A308419.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/DamageUtilities_Auto7.uasset'
+[2023.11.21-09.43.45:128][378]LogFileHelpers: Auto-saving content packages took 0.278
+[2023.11.21-09.46.33:616][860]LogContentBrowser: Deferred new asset file creation: Weapon_Child
+[2023.11.21-09.46.33:661][860]LogContentBrowser: Creating deferred item: Weapon_Child
+[2023.11.21-09.46.33:676][861]LogContentBrowser: Renaming the item being created (Deferred Item: Weapon_Child).
+[2023.11.21-09.46.35:265][  9]LogContentBrowser: Attempting asset rename: Weapon_Child -> Weapon_Child
+[2023.11.21-09.46.35:282][  9]LogContentBrowser: End creating deferred item Weapon_Child
+[2023.11.21-09.46.39:910][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.11.21-09.46.41:893][354]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.21-09.46.41:922][354]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/BluePrints/FunctionLibs/ActorComponents/Weapon_Child.Weapon_Child
+	Asset Type: Blueprint
+[2023.11.21-09.46.42:608][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2023.11.21-09.46.42:630][354]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2023.11.21-09.46.42:652][354]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2023.11.21-09.48.26:944][577]BlueprintLog: New page: Compile DamageUtilities
+[2023.11.21-09.48.27:220][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.11.21-09.48.38:258][ 93]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.21-09.48.39:371][171]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/Projectiles/BP_ProjectileBase.BP_ProjectileBase
+[2023.11.21-09.48.39:372][171]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.11.21-09.48.39:372][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.11.21-09.54.02:479][677]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2023.11.21-09.54.02:484][677]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BluePrints/LevelStuff/NewLevel' took 0.024
+[2023.11.21-09.54.02:484][677]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BluePrints/FunctionLibs/ActorComponents/DamageUtilities] ([2] browsable assets)...
+[2023.11.21-09.54.02:484][677]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/FunctionLibs/ActorComponents/DamageUtilities]
+[2023.11.21-09.54.02:676][677]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/DamageUtilities_Auto8
+[2023.11.21-09.54.02:677][677]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/DamageUtilities_Auto813AE95BB44E92E265C6C43B8CA116DDF.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/FunctionLibs/ActorComponents/DamageUtilities_Auto8.uasset'
+[2023.11.21-09.54.02:679][677]LogFileHelpers: Auto-saving content packages took 0.196
+[2023.11.21-10.28.30:237][356]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.085 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2227 files in 3390 folders with total size 136 MiB.
+[2023.11.21-11.07.26:721][362]LogUObjectHash: Compacting FUObjectHashTables data took   8.39ms
+[2023.11.21-11.07.26:746][362]LogTexture: Display: Building textures: /Game/BluePrints/LevelStuff/NewLevel.NewLevel:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 8.062492 MB), EncodeSpeed: Fast
+[2023.11.21-11.07.26:944][362]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/LevelStuff/NewLevel_Auto9
+[2023.11.21-11.07.26:944][362]LogSavePackage: Moving 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/NewLevel_Auto977FC74E64A6A7E87BE4C83AA619B9AC4.tmp' to 'C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/LevelStuff/NewLevel_Auto9.umap'
+[2023.11.21-11.07.26:948][362]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/Haineko/Pictures/GIT projects/ApparentlythGIT_Folder_wtf/GameoffRTS2023/Saved/Autosaves/Game/BluePrints/LevelStuff/NewLevel_Auto9.umap is in the /Temp path, will not scan.
+[2023.11.21-11.07.26:948][362]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/BluePrints/LevelStuff/NewLevel_Auto9 is in the /Temp path, will not scan.
+[2023.11.21-11.07.26:948][362]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/BluePrints/LevelStuff/NewLevel_Auto9 is in the /Temp path, will not scan.
+[2023.11.21-11.07.26:948][362]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/BluePrints/LevelStuff/NewLevel' took 0.322
+[2023.11.21-11.07.26:948][362]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.322
+[2023.11.21-11.28.29:251][149]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.098 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2232 files in 3397 folders with total size 136 MiB.
+[2023.11.21-12.28.30:260][949]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.106 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2232 files in 3397 folders with total size 136 MiB.
+[2023.11.21-13.28.29:250][743]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.095 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2232 files in 3397 folders with total size 136 MiB.
+[2023.11.21-14.28.29:316][541]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.160 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2232 files in 3397 folders with total size 136 MiB.
+[2023.11.21-15.28.30:227][340]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.070 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2232 files in 3397 folders with total size 136 MiB.
+[2023.11.21-16.28.29:256][135]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:03.098 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2232 files in 3397 folders with total size 136 MiB.
+[2023.11.21-17.28.30:227][934]LogDerivedDataCache: C:/Users/Haineko/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.069 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2232 files in 3397 folders with total size 136 MiB.
